@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 
 
 Cap nhap boi MasOS
+=======
+Noi dung C
+
+Cập nhật bởi Windows
+>>>>>>> origin/master
